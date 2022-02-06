@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP WGM160PX22KGA2
+D WiFi Modules (802.11) WGM160PX22KGA Certified Wi-Fi Module with ARM Cortex-M4, 2 MB Flash, LFXTAL, 2.4 GHz, and built-in
+K
+F https://componentsearchengine.com/Datasheets/1/WGM160PX22KGA2.pdf
+$ENDCMP
+#
+#End Doc Library

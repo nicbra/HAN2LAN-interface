@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT8619EMSE-5#PBF
+D Switching Voltage Regulators 60V, 1A, 3MHz Synchronous Monolithic Buck Regulator with 3.5 A Quiescent Current
+K
+F http://cds.linear.com/docs/en/datasheet/8619f.pdf
+$ENDCMP
+#
+#End Doc Library
