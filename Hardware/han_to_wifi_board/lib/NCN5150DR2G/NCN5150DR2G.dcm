@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCN5150DR2G
+D Wired M-BUS Slave Transceiver SOIC16 ON Semiconductor NCN5150DR2G, M-BUS Transceiver, 2.5  3.8 V, 16-Pin SOIC
+K
+F https://componentsearchengine.com/Datasheets/2/NCN5150DR2G.pdf
+$ENDCMP
+#
+#End Doc Library
