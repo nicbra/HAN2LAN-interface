@@ -50,3 +50,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Kicad stuff
+Hardware/han_to_wifi_board/han_to_wifi_board-backups/*
+_autosave*

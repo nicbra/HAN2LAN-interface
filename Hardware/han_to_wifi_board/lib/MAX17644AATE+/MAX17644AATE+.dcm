@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX17644AATE+
+D Switching Voltage Regulators 4.5V to 36V, 2.7A, H igh-Efficiency, Syn
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX17644.pdf
+$ENDCMP
+#
+#End Doc Library

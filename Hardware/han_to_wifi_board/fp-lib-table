@@ -11,4 +11,6 @@
   (lib (name "LIB_LT8619EMSE-5#PBF")(type "KiCad")(uri "${KIPRJMOD}/lib/LIB_LT8619EMSE-5#PBF")(options "")(descr ""))
   (lib (name "TSM-104-02-S-SH-001")(type "KiCad")(uri "${KIPRJMOD}/lib/TSM-104-02-S-SH-001")(options "")(descr ""))
   (lib (name "MAL202117102E3")(type "KiCad")(uri "${KIPRJMOD}/lib/MAL202117102E3.pretty")(options "")(descr ""))
+  (lib (name "TPS5450MDDAREP")(type "KiCad")(uri "${KIPRJMOD}/lib/TPS5450MDDAREP/TPS5450MDDAREP")(options "")(descr ""))
+  (lib (name "MAX17644AATE+")(type "KiCad")(uri "${KIPRJMOD}/lib/MAX17644AATE+")(options "")(descr ""))
 )
