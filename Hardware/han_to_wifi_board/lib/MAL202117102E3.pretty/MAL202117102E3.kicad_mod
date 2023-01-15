@@ -25,4 +25,9 @@
   (fp_rect (start 0 0) (end 30 12.5) (layer "F.SilkS") (width 0.12) (fill none) (tstamp 25768136-1b58-4e4a-812b-e8f565f1bf1a))
   (pad "1" thru_hole circle (at -2.5 6.25) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask) (tstamp e277b900-1779-4319-a049-b0a4e8745b32))
   (pad "2" thru_hole circle (at 32.5 6.25) (size 1.524 1.524) (drill 0.9) (layers *.Cu *.Mask) (tstamp 867ed0bf-8963-4a3f-80c0-4eb863d4b4cc))
+  (model "${KIPRJMOD}/lib/MAL202117102E3.pretty/CAP_021ASM_12_5X30X_8_VIS.step"
+    (offset (xyz -2.5 -6.3 2))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -392,7 +392,7 @@
       "netlist": "han_to_wifi_board.net",
       "specctra_dsn": "",
       "step": "han_to_wifi_board.step",
-      "vrml": ""
+      "vrml": "../../../../../Downloads/han_to_wifi_board.wrl"
     },
     "page_layout_descr_file": ""
   },
